@@ -1,0 +1,9 @@
+this is just some text
+to this textfile.
+The idea is to exercise email addresses recognition.
+so this is email address - somename19@hotmail.com and this is text,
+just another text
+and another email vlado19b@abv.bg
+and so on 
+and so on
+and other email - pesho_peshov@mail.bg
