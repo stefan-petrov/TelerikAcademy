@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+    var text = "The idea is to exercise email addresses recognition. so this is email address - somename19@hotmail.com and this is text, and another email vlado19b@abv.bg and other email - pesho_peshov@mail.bg";
+    jsConsole.writeLine(findEmailAddresses(text));
+
+    function findEmailAddresses(str) {
+        var separateEmailsBy = ", ";
+        var email = "<none>"; 
+        var emailsArray = str.match(/([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9._-]+)/gi);
+        if (emailsArray) {
+            email = "";
+            for (var i = 0; i < emailsArray.length; i++) {
+                if (i != 0) email += separateEmailsBy;
+                email += emailsArray[i];
+            }
+        }
+        return email;
+    }
+</script>	
+</body>
+</html>

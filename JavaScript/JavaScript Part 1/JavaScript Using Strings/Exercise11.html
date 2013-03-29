@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+    jsConsole.writeLine(stringFormat("Hello, {0}, {1} are you.It is a {2} day, its {3} and the weekend is {4}", "Pesho", "how", "nice", "friday", "tomorrow"));
+
+    function stringFormat(str1, str2, str3, str4, str5, str6, str7, str8,str9,str10,str11,str12,str13,str14,str15,str16,str17,str18,str19,str20,str21,str22,str23,str24,str25,str26,str27,str28,str29,str30) {
+        var result = str1;
+        for (var i = 1; i < arguments.length; i++) {
+            var forReplace = "{" + (i - 1) + "}";
+            result = result.replace(forReplace, arguments[i]);
+        }
+        return result;
+    }
+</script>	
+</body>
+</html>

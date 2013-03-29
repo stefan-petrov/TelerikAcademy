@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+    var mathExpr = "((a+b )/5 )";
+    var mathExpr2 = ")(a+b))";
+    jsConsole.writeLine(checkMathExpr(mathExpr));
+    jsConsole.writeLine(checkMathExpr(mathExpr2));
+
+    function checkMathExpr(str) {    
+        var countRightBracket = 0;
+        var countLeftBracket = 0;
+
+        for (var i = 0; i < str.length; i++) {
+            if (str[i] === '(') {
+                countLeftBracket++;
+            }
+            else if (str[i] === ')') {
+                countRightBracket++;
+            }
+        }
+
+        if (str[0] == ')' || str[str.length - 1] == '(') {
+            return false;
+        }
+        else if (countLeftBracket !== countLeftBracket) {
+            return false;
+        }
+        else {
+            return true;
+        }
+    }
+</script>	
+</body>
+</html>

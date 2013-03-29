@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+
+    var str = "esrever ot gnirts emoS";
+    var reversed = reverseString(str);
+    jsConsole.writeLine(reversed);
+    
+    function reverseString(str) {
+        var tmpStr = "";     
+        for (var i = str.length-1; i >= 0; i--) {
+            tmpStr += str[i];
+        }
+        return tmpStr;
+    }
+</script>	
+</body>
+</html>

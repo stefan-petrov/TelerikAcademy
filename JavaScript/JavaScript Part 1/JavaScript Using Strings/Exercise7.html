@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+    var text = "http://www.devbg.org/forum/index.php";
+
+    var jsonObj = {
+        protocol: extractProtocol(text),
+        server: extractServer(text),
+        resource: extractResource(text)
+    };
+    jsConsole.writeLine(jsonObj.protocol);
+    jsConsole.writeLine(jsonObj.server);
+    jsConsole.writeLine(jsonObj.resource);
+
+
+    function extractProtocol(url) {
+        var index = url.indexOf("://", 0);
+        var protocol = url.substring(0, index);
+        return protocol
+    }
+
+    function extractServer(url) {
+        var index = url.indexOf("://", 0);
+        var indexSlash = url.indexOf("/", index + 3);
+        var server = url.substring(index + 3, indexSlash);
+        return server;
+    }
+
+    function extractResource(url) {
+        var index = url.indexOf("://", 0);
+        var indexSlash = url.indexOf("/", index + 3);
+        var resource = url.substring(indexSlash, url.length - 1);
+        return resource;
+    }
+
+</script>	
+</body>
+</html>

@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<div id="js-console">
+</div>
+<script src="scripts/js-console.js">	
+</script>	
+<script>
+    var text = "abba lamal text and some wordsl exe ala bala and so on";
+    var splited = text.split(" ");
+    for (var i = 0; i < splited.length; i++) {
+        if (checkForPalindrome(splited[i])) {
+            jsConsole.writeLine(splited[i]);
+        }
+    }
+    
+    function checkForPalindrome(str) {
+        var isPolindrome = true;
+        for (var i = 0; i < str.length; i++) {
+            if (str[i] !== str[str.length - 1 - i]) {
+                isPolindrome = false;
+            }
+        }
+        return isPolindrome;
+    }  
+</script>	
+</body>
+</html>
