@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\bin\Debug\Ex01DecimalToBinary.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\bin\Debug\Ex01DecimalToBinary.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\bin\Debug\Ex01DecimalToBinary.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\obj\Debug\Ex01DecimalToBinary.csprojResolveAssemblyReference.cache
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\obj\Debug\Ex01DecimalToBinary.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex01DecimalToBinary\obj\Debug\Ex01DecimalToBinary.pdb

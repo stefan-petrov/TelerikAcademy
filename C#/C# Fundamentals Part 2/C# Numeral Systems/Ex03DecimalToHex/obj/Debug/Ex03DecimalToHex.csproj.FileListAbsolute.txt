@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex03DecimalToHex\bin\Debug\Ex03DecimalToHex.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex03DecimalToHex\bin\Debug\Ex03DecimalToHex.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex03DecimalToHex\bin\Debug\Ex03DecimalToHex.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex03DecimalToHex\obj\Debug\Ex03DecimalToHex.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex03DecimalToHex\obj\Debug\Ex03DecimalToHex.pdb

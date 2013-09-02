@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex07ConvertFromAnySystem\bin\Debug\Ex07ConvertFromAnySystem.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex07ConvertFromAnySystem\bin\Debug\Ex07ConvertFromAnySystem.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex07ConvertFromAnySystem\bin\Debug\Ex07ConvertFromAnySystem.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex07ConvertFromAnySystem\obj\Debug\Ex07ConvertFromAnySystem.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex07ConvertFromAnySystem\obj\Debug\Ex07ConvertFromAnySystem.pdb

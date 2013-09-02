@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\bin\Debug\Ex06BinaryToHex.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\bin\Debug\Ex06BinaryToHex.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\bin\Debug\Ex06BinaryToHex.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\obj\Debug\Ex06BinaryToHex.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\obj\Debug\Ex06BinaryToHex.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex06BinaryToHex\obj\Debug\Ex06BinaryToHex.csprojResolveAssemblyReference.cache

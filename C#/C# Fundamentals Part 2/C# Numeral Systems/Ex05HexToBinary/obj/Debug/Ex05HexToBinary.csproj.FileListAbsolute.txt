@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex05HexToBinary\bin\Debug\Ex05HexToBinary.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex05HexToBinary\bin\Debug\Ex05HexToBinary.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex05HexToBinary\bin\Debug\Ex05HexToBinary.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex05HexToBinary\obj\Debug\Ex05HexToBinary.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex05HexToBinary\obj\Debug\Ex05HexToBinary.pdb

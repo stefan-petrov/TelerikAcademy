@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex02BinaryToDecimal\bin\Debug\Ex02BinaryToDecimal.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex02BinaryToDecimal\bin\Debug\Ex02BinaryToDecimal.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex02BinaryToDecimal\bin\Debug\Ex02BinaryToDecimal.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex02BinaryToDecimal\obj\Debug\Ex02BinaryToDecimal.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex02BinaryToDecimal\obj\Debug\Ex02BinaryToDecimal.pdb

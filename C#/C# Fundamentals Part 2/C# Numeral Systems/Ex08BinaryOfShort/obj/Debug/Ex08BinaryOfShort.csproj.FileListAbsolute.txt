@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex08BinaryOfShort\bin\Debug\Ex08BinaryOfShort.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex08BinaryOfShort\bin\Debug\Ex08BinaryOfShort.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex08BinaryOfShort\bin\Debug\Ex08BinaryOfShort.pdb
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex08BinaryOfShort\obj\Debug\Ex08BinaryOfShort.exe
+c:\users\stef\documents\visual studio 2012\Projects\CSharpNumeralSystems\Ex08BinaryOfShort\obj\Debug\Ex08BinaryOfShort.pdb
