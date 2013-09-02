@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex03CheckExpression\bin\Debug\Ex03CheckExpression.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex03CheckExpression\bin\Debug\Ex03CheckExpression.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex03CheckExpression\bin\Debug\Ex03CheckExpression.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex03CheckExpression\obj\Debug\Ex03CheckExpression.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex03CheckExpression\obj\Debug\Ex03CheckExpression.pdb

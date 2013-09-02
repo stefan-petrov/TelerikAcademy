@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex06_20characters\bin\Debug\Ex06_20characters.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex06_20characters\bin\Debug\Ex06_20characters.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex06_20characters\bin\Debug\Ex06_20characters.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex06_20characters\obj\Debug\Ex06_20characters.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex06_20characters\obj\Debug\Ex06_20characters.pdb

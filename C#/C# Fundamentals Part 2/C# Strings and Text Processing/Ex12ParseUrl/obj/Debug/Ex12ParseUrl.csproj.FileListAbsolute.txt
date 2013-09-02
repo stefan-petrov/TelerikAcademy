@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex12ParseUrl\bin\Debug\Ex12ParseUrl.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex12ParseUrl\bin\Debug\Ex12ParseUrl.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex12ParseUrl\bin\Debug\Ex12ParseUrl.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex12ParseUrl\obj\Debug\Ex12ParseUrl.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex12ParseUrl\obj\Debug\Ex12ParseUrl.pdb

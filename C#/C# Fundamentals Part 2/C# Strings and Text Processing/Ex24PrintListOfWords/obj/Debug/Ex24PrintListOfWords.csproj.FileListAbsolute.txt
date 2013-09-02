@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex24PrintListOfWords\bin\Debug\Ex24PrintListOfWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex24PrintListOfWords\bin\Debug\Ex24PrintListOfWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex24PrintListOfWords\bin\Debug\Ex24PrintListOfWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex24PrintListOfWords\obj\Debug\Ex24PrintListOfWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex24PrintListOfWords\obj\Debug\Ex24PrintListOfWords.pdb

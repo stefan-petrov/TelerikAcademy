@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex04CountSubstring\bin\Debug\Ex04CountSubstring.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex04CountSubstring\bin\Debug\Ex04CountSubstring.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex04CountSubstring\bin\Debug\Ex04CountSubstring.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex04CountSubstring\obj\Debug\Ex04CountSubstring.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex04CountSubstring\obj\Debug\Ex04CountSubstring.pdb

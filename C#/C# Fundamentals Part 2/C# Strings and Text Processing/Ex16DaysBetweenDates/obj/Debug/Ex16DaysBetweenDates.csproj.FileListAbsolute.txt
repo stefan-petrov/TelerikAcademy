@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex16DaysBetweenDates\bin\Debug\Ex16DaysBetweenDates.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex16DaysBetweenDates\bin\Debug\Ex16DaysBetweenDates.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex16DaysBetweenDates\bin\Debug\Ex16DaysBetweenDates.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex16DaysBetweenDates\obj\Debug\Ex16DaysBetweenDates.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex16DaysBetweenDates\obj\Debug\Ex16DaysBetweenDates.pdb

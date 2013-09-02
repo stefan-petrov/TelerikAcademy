@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex09ReplaceForbiddenWords\bin\Debug\Ex09ReplaceForbiddenWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex09ReplaceForbiddenWords\bin\Debug\Ex09ReplaceForbiddenWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex09ReplaceForbiddenWords\bin\Debug\Ex09ReplaceForbiddenWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex09ReplaceForbiddenWords\obj\Debug\Ex09ReplaceForbiddenWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex09ReplaceForbiddenWords\obj\Debug\Ex09ReplaceForbiddenWords.pdb

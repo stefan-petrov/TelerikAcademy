@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex08ExtractSentences\bin\Debug\Ex08ExtractSentences.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex08ExtractSentences\bin\Debug\Ex08ExtractSentences.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex08ExtractSentences\bin\Debug\Ex08ExtractSentences.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex08ExtractSentences\obj\Debug\Ex08ExtractSentences.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex08ExtractSentences\obj\Debug\Ex08ExtractSentences.pdb

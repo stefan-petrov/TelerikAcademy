@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex11NumAsHexDecPerc\bin\Debug\Ex11NumAsHexDecPerc.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex11NumAsHexDecPerc\bin\Debug\Ex11NumAsHexDecPerc.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex11NumAsHexDecPerc\bin\Debug\Ex11NumAsHexDecPerc.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex11NumAsHexDecPerc\obj\Debug\Ex11NumAsHexDecPerc.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex11NumAsHexDecPerc\obj\Debug\Ex11NumAsHexDecPerc.pdb

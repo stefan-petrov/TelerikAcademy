@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex20Palindromes\bin\Debug\Ex20Palindromes.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex20Palindromes\bin\Debug\Ex20Palindromes.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex20Palindromes\bin\Debug\Ex20Palindromes.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex20Palindromes\obj\Debug\Ex20Palindromes.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex20Palindromes\obj\Debug\Ex20Palindromes.pdb

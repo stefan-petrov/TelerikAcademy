@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex17DateAfter6Hrs\bin\Debug\Ex17DateAfter6Hrs.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex17DateAfter6Hrs\bin\Debug\Ex17DateAfter6Hrs.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex17DateAfter6Hrs\bin\Debug\Ex17DateAfter6Hrs.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex17DateAfter6Hrs\obj\Debug\Ex17DateAfter6Hrs.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex17DateAfter6Hrs\obj\Debug\Ex17DateAfter6Hrs.pdb

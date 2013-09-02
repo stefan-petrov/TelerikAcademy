@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex23ReplaceIdenticalLetters\bin\Debug\Ex23ReplaceIdenticalLetters.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex23ReplaceIdenticalLetters\bin\Debug\Ex23ReplaceIdenticalLetters.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex23ReplaceIdenticalLetters\bin\Debug\Ex23ReplaceIdenticalLetters.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex23ReplaceIdenticalLetters\obj\Debug\Ex23ReplaceIdenticalLetters.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex23ReplaceIdenticalLetters\obj\Debug\Ex23ReplaceIdenticalLetters.pdb

@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex02ReverseInput\bin\Debug\Ex02ReverseInput.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex02ReverseInput\bin\Debug\Ex02ReverseInput.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex02ReverseInput\bin\Debug\Ex02ReverseInput.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex02ReverseInput\obj\Debug\Ex02ReverseInput.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex02ReverseInput\obj\Debug\Ex02ReverseInput.pdb

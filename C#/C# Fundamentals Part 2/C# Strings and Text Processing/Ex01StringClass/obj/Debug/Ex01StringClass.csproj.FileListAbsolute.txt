@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\bin\Debug\Ex01StringClass.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\bin\Debug\Ex01StringClass.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\bin\Debug\Ex01StringClass.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\obj\Debug\Ex01StringClass.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\obj\Debug\Ex01StringClass.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex01StringClass\obj\Debug\Ex01StringClass.pdb

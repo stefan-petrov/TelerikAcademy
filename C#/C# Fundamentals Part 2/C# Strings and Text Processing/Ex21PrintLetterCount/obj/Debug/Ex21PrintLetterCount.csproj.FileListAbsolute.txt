@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex21PrintLetterCount\bin\Debug\Ex21PrintLetterCount.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex21PrintLetterCount\bin\Debug\Ex21PrintLetterCount.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex21PrintLetterCount\bin\Debug\Ex21PrintLetterCount.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex21PrintLetterCount\obj\Debug\Ex21PrintLetterCount.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex21PrintLetterCount\obj\Debug\Ex21PrintLetterCount.pdb

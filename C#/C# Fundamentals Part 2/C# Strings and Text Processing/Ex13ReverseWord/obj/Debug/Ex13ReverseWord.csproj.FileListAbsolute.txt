@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex13ReverseWord\bin\Debug\Ex13ReverseWord.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex13ReverseWord\bin\Debug\Ex13ReverseWord.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex13ReverseWord\bin\Debug\Ex13ReverseWord.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex13ReverseWord\obj\Debug\Ex13ReverseWord.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex13ReverseWord\obj\Debug\Ex13ReverseWord.pdb

@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex05UppercaseInTags\bin\Debug\Ex05UppercaseInTags.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex05UppercaseInTags\bin\Debug\Ex05UppercaseInTags.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex05UppercaseInTags\bin\Debug\Ex05UppercaseInTags.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex05UppercaseInTags\obj\Debug\Ex05UppercaseInTags.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex05UppercaseInTags\obj\Debug\Ex05UppercaseInTags.pdb

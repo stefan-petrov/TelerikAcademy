@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\bin\Debug\Ex18ExtractEmails.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\bin\Debug\Ex18ExtractEmails.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\bin\Debug\Ex18ExtractEmails.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\obj\Debug\Ex18ExtractEmails.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\obj\Debug\Ex18ExtractEmails.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex18ExtractEmails\obj\Debug\Ex18ExtractEmails.pdb

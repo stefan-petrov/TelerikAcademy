@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\bin\Debug\Ex22PrintWordCount.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\obj\Debug\Ex22PrintWordCount.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\bin\Debug\Ex22PrintWordCount.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\bin\Debug\Ex22PrintWordCount.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\obj\Debug\Ex22PrintWordCount.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex22PrintWordCount\obj\Debug\Ex22PrintWordCount.pdb

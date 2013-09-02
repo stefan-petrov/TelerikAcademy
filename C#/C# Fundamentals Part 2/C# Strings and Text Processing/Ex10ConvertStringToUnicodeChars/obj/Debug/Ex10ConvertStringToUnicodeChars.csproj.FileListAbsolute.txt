@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex10ConvertStringToUnicodeChars\bin\Debug\Ex10ConvertStringToUnicodeChars.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex10ConvertStringToUnicodeChars\bin\Debug\Ex10ConvertStringToUnicodeChars.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex10ConvertStringToUnicodeChars\bin\Debug\Ex10ConvertStringToUnicodeChars.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex10ConvertStringToUnicodeChars\obj\Debug\Ex10ConvertStringToUnicodeChars.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex10ConvertStringToUnicodeChars\obj\Debug\Ex10ConvertStringToUnicodeChars.pdb

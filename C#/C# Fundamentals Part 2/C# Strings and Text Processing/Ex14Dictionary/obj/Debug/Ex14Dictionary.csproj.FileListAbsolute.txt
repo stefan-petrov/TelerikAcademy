@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex14Dictionary\bin\Debug\Ex14Dictionary.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex14Dictionary\bin\Debug\Ex14Dictionary.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex14Dictionary\bin\Debug\Ex14Dictionary.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex14Dictionary\obj\Debug\Ex14Dictionary.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex14Dictionary\obj\Debug\Ex14Dictionary.pdb

@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\bin\Debug\Ex19ExtractDates.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\bin\Debug\Ex19ExtractDates.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\bin\Debug\Ex19ExtractDates.pdb
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\obj\Debug\Ex19ExtractDates.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\obj\Debug\Ex19ExtractDates.exe
+G:\TortoiseSVN Projects\csharp-console-game\Strings\Ex19ExtractDates\obj\Debug\Ex19ExtractDates.pdb
