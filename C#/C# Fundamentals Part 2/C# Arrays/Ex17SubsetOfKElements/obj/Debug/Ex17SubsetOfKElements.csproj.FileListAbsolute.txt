@@ -1,0 +1,5 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex17SubsetOfKElements\bin\Debug\Ex17SubsetOfKElements.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex17SubsetOfKElements\bin\Debug\Ex17SubsetOfKElements.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex17SubsetOfKElements\bin\Debug\Ex17SubsetOfKElements.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex17SubsetOfKElements\obj\Debug\Ex17SubsetOfKElements.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex17SubsetOfKElements\obj\Debug\Ex17SubsetOfKElements.pdb

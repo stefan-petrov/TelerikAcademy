@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex06ClassMatrix\bin\Debug\Ex06ClassMatrix.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex06ClassMatrix\bin\Debug\Ex06ClassMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex06ClassMatrix\bin\Debug\Ex06ClassMatrix.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex06ClassMatrix\obj\Debug\Ex06ClassMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex06ClassMatrix\obj\Debug\Ex06ClassMatrix.pdb

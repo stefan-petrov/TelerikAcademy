@@ -1,0 +1,40 @@
+ is a general purpose ming object oriented language 
+invented around 1999 or 2000 by Anders Hejlsberg at Microsoft. 
+It is very similar to Java in its syntax with a major difference 
+being that all variable types are descended from a common ancestor 
+class.
+The purpose of  is to precisely define a series of operations 
+that a computer can perform to accomplish a task. Most of these 
+operations involve manipulating numbers and text, but anything 
+that the computer can physically do can be med in . 
+Computers have no intelligence- they have to be told exactly 
+what to do and this is defined by the ming language you use. 
+Once med they can repeat the steps as many times as you wish 
+at very high speed. Modern s are so fast they can count to a 
+billion in a second or two.
+Typical ming tasks includes putting data into a database 
+or pulling it out, displaying high speed graphics in a game or video, 
+controlling electronic devices attached to the  or even playing 
+ and/or sound effects. You can even write software to generate 
+ or help you compose.
+Some developers believe that  is too slow for games, because it 
+is interpreted. However the .NET runtime compiles the interpreted 
+code (called CIL) the first time it is run.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

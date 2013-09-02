@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex02CompareTwoArrays\bin\Debug\Ex02CompareTwoArrays.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex02CompareTwoArrays\bin\Debug\Ex02CompareTwoArrays.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex02CompareTwoArrays\bin\Debug\Ex02CompareTwoArrays.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex02CompareTwoArrays\obj\Debug\Ex02CompareTwoArrays.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex02CompareTwoArrays\obj\Debug\Ex02CompareTwoArrays.pdb

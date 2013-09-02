@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex10ExtractFromXML\bin\Debug\Ex10ExtractFromXML.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex10ExtractFromXML\bin\Debug\Ex10ExtractFromXML.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex10ExtractFromXML\bin\Debug\Ex10ExtractFromXML.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex10ExtractFromXML\obj\Debug\Ex10ExtractFromXML.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex10ExtractFromXML\obj\Debug\Ex10ExtractFromXML.pdb

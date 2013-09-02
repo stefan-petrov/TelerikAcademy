@@ -1,0 +1,9 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\bin\Debug\Ex01OddLines.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\obj\Debug\Ex01OddLines.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\bin\Debug\Ex01OddLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\bin\Debug\Ex01OddLines.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\obj\Debug\Ex01OddLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex01OddLines\obj\Debug\Ex01OddLines.pdb
+C:\Users\stef\Documents\Visual Studio 2012\Projects\TextFiles\Ex01OddLines\bin\Debug\Ex01OddLines.exe.config
+C:\Users\stef\Documents\Visual Studio 2012\Projects\TextFiles\Ex01OddLines\obj\Debug\Ex01OddLines.exe
+C:\Users\stef\Documents\Visual Studio 2012\Projects\TextFiles\Ex01OddLines\obj\Debug\Ex01OddLines.pdb

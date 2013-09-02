@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex08SequenceOfMaximalSum\bin\Debug\Ex08SequenceOfMaximalSum.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex08SequenceOfMaximalSum\bin\Debug\Ex08SequenceOfMaximalSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex08SequenceOfMaximalSum\bin\Debug\Ex08SequenceOfMaximalSum.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex08SequenceOfMaximalSum\obj\Debug\Ex08SequenceOfMaximalSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex08SequenceOfMaximalSum\obj\Debug\Ex08SequenceOfMaximalSum.pdb

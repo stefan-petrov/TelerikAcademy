@@ -1,0 +1,5 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex21Combinations\bin\Debug\Ex21Combinations.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex21Combinations\bin\Debug\Ex21Combinations.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex21Combinations\bin\Debug\Ex21Combinations.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex21Combinations\obj\Debug\Ex21Combinations.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex21Combinations\obj\Debug\Ex21Combinations.pdb

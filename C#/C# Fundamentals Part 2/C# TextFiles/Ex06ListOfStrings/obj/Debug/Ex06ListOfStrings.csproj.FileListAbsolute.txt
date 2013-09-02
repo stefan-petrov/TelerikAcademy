@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex06ListOfStrings\bin\Debug\Ex06ListOfStrings.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex06ListOfStrings\bin\Debug\Ex06ListOfStrings.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex06ListOfStrings\bin\Debug\Ex06ListOfStrings.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex06ListOfStrings\obj\Debug\Ex06ListOfStrings.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex06ListOfStrings\obj\Debug\Ex06ListOfStrings.pdb

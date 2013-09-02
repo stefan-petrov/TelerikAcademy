@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\bin\Debug\Ex01PrintYourName.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\bin\Debug\Ex01PrintYourName.exe
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\bin\Debug\Ex01PrintYourName.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\obj\Debug\Ex01PrintYourName.csprojResolveAssemblyReference.cache
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\obj\Debug\Ex01PrintYourName.exe
+c:\users\stef\documents\visual studio 2012\Projects\Methods\Ex01PrintYourName\obj\Debug\Ex01PrintYourName.pdb

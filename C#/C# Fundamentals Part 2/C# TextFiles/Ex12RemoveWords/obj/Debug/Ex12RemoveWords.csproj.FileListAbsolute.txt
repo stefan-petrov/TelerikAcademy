@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\bin\Debug\Ex12RemoveWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\bin\Debug\Ex12RemoveWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\bin\Debug\Ex12RemoveWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\obj\Debug\Ex12RemoveWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\obj\Debug\Ex12RemoveWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex12RemoveWords\obj\Debug\Ex12RemoveWords.csprojResolveAssemblyReference.cache

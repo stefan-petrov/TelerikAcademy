@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex07ReplaceAWord\bin\Debug\Ex07ReplaceAWord.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex07ReplaceAWord\bin\Debug\Ex07ReplaceAWord.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex07ReplaceAWord\bin\Debug\Ex07ReplaceAWord.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex07ReplaceAWord\obj\Debug\Ex07ReplaceAWord.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex07ReplaceAWord\obj\Debug\Ex07ReplaceAWord.pdb

@@ -1,0 +1,6 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\bin\Debug\Ex10Nfatkoriel.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\bin\Debug\Ex10Nfatkoriel.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\bin\Debug\Ex10Nfatkoriel.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\obj\Debug\Ex10Nfatkoriel.csprojResolveAssemblyReference.cache
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\obj\Debug\Ex10Nfatkoriel.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex10Nfatkoriel\obj\Debug\Ex10Nfatkoriel.pdb

@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex03CompareCharArraysLexicographically\bin\Debug\Ex03CompareCharArraysLexicographically.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex03CompareCharArraysLexicographically\bin\Debug\Ex03CompareCharArraysLexicographically.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex03CompareCharArraysLexicographically\bin\Debug\Ex03CompareCharArraysLexicographically.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex03CompareCharArraysLexicographically\obj\Debug\Ex03CompareCharArraysLexicographically.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex03CompareCharArraysLexicographically\obj\Debug\Ex03CompareCharArraysLexicographically.pdb

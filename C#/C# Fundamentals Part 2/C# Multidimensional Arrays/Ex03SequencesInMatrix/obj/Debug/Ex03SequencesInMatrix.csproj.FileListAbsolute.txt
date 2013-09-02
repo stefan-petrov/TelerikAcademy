@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex03SequencesInMatrix\bin\Debug\Ex03SequencesInMatrix.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex03SequencesInMatrix\bin\Debug\Ex03SequencesInMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex03SequencesInMatrix\bin\Debug\Ex03SequencesInMatrix.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex03SequencesInMatrix\obj\Debug\Ex03SequencesInMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex03SequencesInMatrix\obj\Debug\Ex03SequencesInMatrix.pdb

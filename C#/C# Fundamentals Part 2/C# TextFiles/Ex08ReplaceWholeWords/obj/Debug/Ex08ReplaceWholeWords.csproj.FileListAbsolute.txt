@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex08ReplaceWholeWords\bin\Debug\Ex08ReplaceWholeWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex08ReplaceWholeWords\bin\Debug\Ex08ReplaceWholeWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex08ReplaceWholeWords\bin\Debug\Ex08ReplaceWholeWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex08ReplaceWholeWords\obj\Debug\Ex08ReplaceWholeWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex08ReplaceWholeWords\obj\Debug\Ex08ReplaceWholeWords.pdb

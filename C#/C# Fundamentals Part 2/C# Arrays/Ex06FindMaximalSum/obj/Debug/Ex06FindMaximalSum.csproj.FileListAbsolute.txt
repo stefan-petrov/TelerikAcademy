@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex06FindMaximalSum\bin\Debug\Ex06FindMaximalSum.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex06FindMaximalSum\bin\Debug\Ex06FindMaximalSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex06FindMaximalSum\bin\Debug\Ex06FindMaximalSum.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex06FindMaximalSum\obj\Debug\Ex06FindMaximalSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex06FindMaximalSum\obj\Debug\Ex06FindMaximalSum.pdb

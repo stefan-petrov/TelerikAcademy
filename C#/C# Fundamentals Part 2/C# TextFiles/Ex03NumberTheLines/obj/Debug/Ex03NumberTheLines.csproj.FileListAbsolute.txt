@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex03NumberTheLines\bin\Debug\Ex03NumberTheLines.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex03NumberTheLines\bin\Debug\Ex03NumberTheLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex03NumberTheLines\bin\Debug\Ex03NumberTheLines.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex03NumberTheLines\obj\Debug\Ex03NumberTheLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex03NumberTheLines\obj\Debug\Ex03NumberTheLines.pdb

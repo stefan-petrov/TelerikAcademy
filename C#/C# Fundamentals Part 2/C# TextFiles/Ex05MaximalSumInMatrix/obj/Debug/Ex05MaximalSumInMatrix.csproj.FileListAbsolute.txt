@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex05MaximalSumInMatrix\bin\Debug\Ex05MaximalSumInMatrix.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex05MaximalSumInMatrix\bin\Debug\Ex05MaximalSumInMatrix.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex05MaximalSumInMatrix\bin\Debug\Ex05MaximalSumInMatrix.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex05MaximalSumInMatrix\obj\Debug\Ex05MaximalSumInMatrix.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex05MaximalSumInMatrix\obj\Debug\Ex05MaximalSumInMatrix.pdb

@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex09DeleteOddLines\bin\Debug\Ex09DeleteOddLines.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex09DeleteOddLines\bin\Debug\Ex09DeleteOddLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex09DeleteOddLines\bin\Debug\Ex09DeleteOddLines.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex09DeleteOddLines\obj\Debug\Ex09DeleteOddLines.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex09DeleteOddLines\obj\Debug\Ex09DeleteOddLines.pdb

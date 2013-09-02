@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex02ReadNumberMethod\bin\Debug\Ex02ReadNumberMethod.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex02ReadNumberMethod\bin\Debug\Ex02ReadNumberMethod.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex02ReadNumberMethod\bin\Debug\Ex02ReadNumberMethod.pdb
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex02ReadNumberMethod\obj\Debug\Ex02ReadNumberMethod.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex02ReadNumberMethod\obj\Debug\Ex02ReadNumberMethod.pdb

@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex02RectMatrix\bin\Debug\Ex02RectMatrix.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex02RectMatrix\bin\Debug\Ex02RectMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex02RectMatrix\bin\Debug\Ex02RectMatrix.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex02RectMatrix\obj\Debug\Ex02RectMatrix.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex02RectMatrix\obj\Debug\Ex02RectMatrix.pdb

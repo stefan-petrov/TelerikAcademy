@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex03ReadFileContent\bin\Debug\Ex03ReadFileContent.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex03ReadFileContent\bin\Debug\Ex03ReadFileContent.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex03ReadFileContent\bin\Debug\Ex03ReadFileContent.pdb
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex03ReadFileContent\obj\Debug\Ex03ReadFileContent.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex03ReadFileContent\obj\Debug\Ex03ReadFileContent.pdb

@@ -1,0 +1,6 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\bin\Debug\Ex11BinarySearch.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\bin\Debug\Ex11BinarySearch.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\bin\Debug\Ex11BinarySearch.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\obj\Debug\Ex11BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\obj\Debug\Ex11BinarySearch.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex11BinarySearch\obj\Debug\Ex11BinarySearch.pdb

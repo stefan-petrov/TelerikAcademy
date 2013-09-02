@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex04MaxSequenceOfEqualElements\bin\Debug\Ex04MaxSequenceOfEqualElements.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex04MaxSequenceOfEqualElements\bin\Debug\Ex04MaxSequenceOfEqualElements.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex04MaxSequenceOfEqualElements\bin\Debug\Ex04MaxSequenceOfEqualElements.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex04MaxSequenceOfEqualElements\obj\Debug\Ex04MaxSequenceOfEqualElements.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex04MaxSequenceOfEqualElements\obj\Debug\Ex04MaxSequenceOfEqualElements.pdb

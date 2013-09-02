@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex02GetMaxMethod\bin\Debug\Ex02GetMaxMethod.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex02GetMaxMethod\bin\Debug\Ex02GetMaxMethod.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex02GetMaxMethod\bin\Debug\Ex02GetMaxMethod.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex02GetMaxMethod\obj\Debug\Ex02GetMaxMethod.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex02GetMaxMethod\obj\Debug\Ex02GetMaxMethod.pdb

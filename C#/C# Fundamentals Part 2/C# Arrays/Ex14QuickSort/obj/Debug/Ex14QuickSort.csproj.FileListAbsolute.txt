@@ -1,0 +1,5 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex14QuickSort\bin\Debug\Ex14QuickSort.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex14QuickSort\bin\Debug\Ex14QuickSort.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex14QuickSort\bin\Debug\Ex14QuickSort.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex14QuickSort\obj\Debug\Ex14QuickSort.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex14QuickSort\obj\Debug\Ex14QuickSort.pdb

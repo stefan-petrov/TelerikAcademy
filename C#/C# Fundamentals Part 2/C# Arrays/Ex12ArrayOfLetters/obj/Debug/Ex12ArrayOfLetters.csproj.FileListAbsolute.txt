@@ -1,0 +1,6 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\bin\Debug\Ex12ArrayOfLetters.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\bin\Debug\Ex12ArrayOfLetters.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\bin\Debug\Ex12ArrayOfLetters.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\obj\Debug\Ex12ArrayOfLetters.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\obj\Debug\Ex12ArrayOfLetters.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex12ArrayOfLetters\obj\Debug\Ex12ArrayOfLetters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex04UsingBinarySearch\bin\Debug\Ex04UsingBinarySearch.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex04UsingBinarySearch\bin\Debug\Ex04UsingBinarySearch.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex04UsingBinarySearch\bin\Debug\Ex04UsingBinarySearch.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex04UsingBinarySearch\obj\Debug\Ex04UsingBinarySearch.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex04UsingBinarySearch\obj\Debug\Ex04UsingBinarySearch.pdb

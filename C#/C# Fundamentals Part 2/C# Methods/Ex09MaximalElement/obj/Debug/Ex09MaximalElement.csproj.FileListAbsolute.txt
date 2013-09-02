@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex09MaximalElement\bin\Debug\Ex09MaximalElement.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex09MaximalElement\bin\Debug\Ex09MaximalElement.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex09MaximalElement\bin\Debug\Ex09MaximalElement.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex09MaximalElement\obj\Debug\Ex09MaximalElement.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex09MaximalElement\obj\Debug\Ex09MaximalElement.pdb

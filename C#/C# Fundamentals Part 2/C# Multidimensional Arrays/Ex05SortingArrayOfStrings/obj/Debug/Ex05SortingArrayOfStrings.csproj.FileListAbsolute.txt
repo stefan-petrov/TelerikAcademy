@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\bin\Debug\Ex05SortingArrayOfStrings.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\bin\Debug\Ex05SortingArrayOfStrings.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\bin\Debug\Ex05SortingArrayOfStrings.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\obj\Debug\Ex05SortingArrayOfStrings.exe
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\obj\Debug\Ex05SortingArrayOfStrings.pdb
+c:\users\stef\documents\visual studio 2012\Projects\MultiDimensionalArrays\Ex05SortingArrayOfStrings\obj\Debug\Ex05SortingArrayOfStrings.csprojResolveAssemblyReference.cache

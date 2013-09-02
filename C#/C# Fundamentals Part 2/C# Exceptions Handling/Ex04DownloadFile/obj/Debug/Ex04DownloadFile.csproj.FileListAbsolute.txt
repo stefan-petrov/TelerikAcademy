@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex04DownloadFile\bin\Debug\Ex04DownloadFile.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex04DownloadFile\bin\Debug\Ex04DownloadFile.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex04DownloadFile\bin\Debug\Ex04DownloadFile.pdb
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex04DownloadFile\obj\Debug\Ex04DownloadFile.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex04DownloadFile\obj\Debug\Ex04DownloadFile.pdb

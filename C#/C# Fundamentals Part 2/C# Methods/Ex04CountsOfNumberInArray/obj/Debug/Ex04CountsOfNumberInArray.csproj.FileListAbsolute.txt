@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex04CountsOfNumberInArray\bin\Debug\Ex04CountsOfNumberInArray.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex04CountsOfNumberInArray\bin\Debug\Ex04CountsOfNumberInArray.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex04CountsOfNumberInArray\bin\Debug\Ex04CountsOfNumberInArray.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex04CountsOfNumberInArray\obj\Debug\Ex04CountsOfNumberInArray.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex04CountsOfNumberInArray\obj\Debug\Ex04CountsOfNumberInArray.pdb

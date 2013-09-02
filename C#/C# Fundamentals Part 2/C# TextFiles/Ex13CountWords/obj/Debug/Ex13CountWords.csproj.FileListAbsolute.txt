@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\bin\Debug\Ex13CountWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\obj\Debug\Ex13CountWords.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\bin\Debug\Ex13CountWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\bin\Debug\Ex13CountWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\obj\Debug\Ex13CountWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex13CountWords\obj\Debug\Ex13CountWords.pdb

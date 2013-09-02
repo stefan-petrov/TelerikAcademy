@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\bin\Debug\Ex01ArrayOf20Integers.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\bin\Debug\Ex01ArrayOf20Integers.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\bin\Debug\Ex01ArrayOf20Integers.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\obj\Debug\Ex01ArrayOf20Integers.csprojResolveAssemblyReference.cache
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\obj\Debug\Ex01ArrayOf20Integers.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex01ArrayOf20Integers\obj\Debug\Ex01ArrayOf20Integers.pdb

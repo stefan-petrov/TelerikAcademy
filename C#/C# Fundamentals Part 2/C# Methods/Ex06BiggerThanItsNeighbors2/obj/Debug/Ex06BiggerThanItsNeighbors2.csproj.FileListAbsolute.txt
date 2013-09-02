@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex06BiggerThanItsNeighbors2\bin\Debug\Ex06BiggerThanItsNeighbors2.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex06BiggerThanItsNeighbors2\bin\Debug\Ex06BiggerThanItsNeighbors2.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex06BiggerThanItsNeighbors2\bin\Debug\Ex06BiggerThanItsNeighbors2.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex06BiggerThanItsNeighbors2\obj\Debug\Ex06BiggerThanItsNeighbors2.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex06BiggerThanItsNeighbors2\obj\Debug\Ex06BiggerThanItsNeighbors2.pdb

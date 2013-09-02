@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex04CompareTwoFiles\bin\Debug\Ex04CompareTwoFiles.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex04CompareTwoFiles\bin\Debug\Ex04CompareTwoFiles.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex04CompareTwoFiles\bin\Debug\Ex04CompareTwoFiles.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex04CompareTwoFiles\obj\Debug\Ex04CompareTwoFiles.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex04CompareTwoFiles\obj\Debug\Ex04CompareTwoFiles.pdb

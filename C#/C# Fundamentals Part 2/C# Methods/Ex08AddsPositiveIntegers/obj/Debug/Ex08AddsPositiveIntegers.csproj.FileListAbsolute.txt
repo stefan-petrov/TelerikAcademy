@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex08AddsPositiveIntegers\bin\Debug\Ex08AddsPositiveIntegers.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex08AddsPositiveIntegers\bin\Debug\Ex08AddsPositiveIntegers.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex08AddsPositiveIntegers\bin\Debug\Ex08AddsPositiveIntegers.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex08AddsPositiveIntegers\obj\Debug\Ex08AddsPositiveIntegers.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex08AddsPositiveIntegers\obj\Debug\Ex08AddsPositiveIntegers.pdb

@@ -1,0 +1,6 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\bin\Debug\Ex10FindGivenSum.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\bin\Debug\Ex10FindGivenSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\bin\Debug\Ex10FindGivenSum.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\obj\Debug\Ex10FindGivenSum.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\obj\Debug\Ex10FindGivenSum.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex10FindGivenSum\obj\Debug\Ex10FindGivenSum.csprojResolveAssemblyReference.cache

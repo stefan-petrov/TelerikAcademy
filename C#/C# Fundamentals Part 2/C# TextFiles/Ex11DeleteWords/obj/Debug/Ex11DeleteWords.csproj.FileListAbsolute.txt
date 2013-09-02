@@ -1,0 +1,5 @@
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex11DeleteWords\bin\Debug\Ex11DeleteWords.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex11DeleteWords\bin\Debug\Ex11DeleteWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex11DeleteWords\bin\Debug\Ex11DeleteWords.pdb
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex11DeleteWords\obj\Debug\Ex11DeleteWords.exe
+G:\TortoiseSVN Projects\csharp-console-game\TextFiles\Ex11DeleteWords\obj\Debug\Ex11DeleteWords.pdb

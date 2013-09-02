@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex13MultitaskProgram\bin\Debug\Ex13MultitaskProgram.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex13MultitaskProgram\bin\Debug\Ex13MultitaskProgram.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex13MultitaskProgram\bin\Debug\Ex13MultitaskProgram.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex13MultitaskProgram\obj\Debug\Ex13MultitaskProgram.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex13MultitaskProgram\obj\Debug\Ex13MultitaskProgram.pdb

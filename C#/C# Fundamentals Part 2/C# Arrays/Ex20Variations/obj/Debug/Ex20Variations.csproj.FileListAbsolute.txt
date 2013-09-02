@@ -1,0 +1,5 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex20Variations\bin\Debug\Ex20Variations.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex20Variations\bin\Debug\Ex20Variations.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex20Variations\bin\Debug\Ex20Variations.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex20Variations\obj\Debug\Ex20Variations.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex20Variations\obj\Debug\Ex20Variations.pdb

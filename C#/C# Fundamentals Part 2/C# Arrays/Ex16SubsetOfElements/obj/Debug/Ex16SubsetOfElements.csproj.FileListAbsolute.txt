@@ -1,0 +1,6 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\bin\Debug\Ex16SubsetOfElements.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\bin\Debug\Ex16SubsetOfElements.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\bin\Debug\Ex16SubsetOfElements.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\obj\Debug\Ex16SubsetOfElements.csprojResolveAssemblyReference.cache
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\obj\Debug\Ex16SubsetOfElements.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex16SubsetOfElements\obj\Debug\Ex16SubsetOfElements.pdb

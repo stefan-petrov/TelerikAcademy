@@ -1,0 +1,6 @@
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\bin\Debug\Ex01SquareRoot.exe.config
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\bin\Debug\Ex01SquareRoot.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\bin\Debug\Ex01SquareRoot.pdb
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\obj\Debug\Ex01SquareRoot.csprojResolveAssemblyReference.cache
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\obj\Debug\Ex01SquareRoot.exe
+G:\TortoiseSVN Projects\csharp-console-game\ExceptionHandling\Ex01SquareRoot\obj\Debug\Ex01SquareRoot.pdb

@@ -1,0 +1,5 @@
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex11PolynomialsAddition\bin\Debug\Ex11PolynomialsAddition.exe.config
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex11PolynomialsAddition\bin\Debug\Ex11PolynomialsAddition.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex11PolynomialsAddition\bin\Debug\Ex11PolynomialsAddition.pdb
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex11PolynomialsAddition\obj\Debug\Ex11PolynomialsAddition.exe
+c:\Users\stef\documents\visual studio 2012\Projects\Methods\Ex11PolynomialsAddition\obj\Debug\Ex11PolynomialsAddition.pdb

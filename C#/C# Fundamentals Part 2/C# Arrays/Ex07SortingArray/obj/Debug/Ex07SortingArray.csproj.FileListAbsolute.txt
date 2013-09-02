@@ -1,0 +1,5 @@
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex07SortingArray\bin\Debug\Ex07SortingArray.exe.config
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex07SortingArray\bin\Debug\Ex07SortingArray.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex07SortingArray\bin\Debug\Ex07SortingArray.pdb
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex07SortingArray\obj\Debug\Ex07SortingArray.exe
+c:\users\stef\documents\visual studio 2012\Projects\Arrays\Ex07SortingArray\obj\Debug\Ex07SortingArray.pdb

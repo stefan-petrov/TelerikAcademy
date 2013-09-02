@@ -1,0 +1,6 @@
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\bin\Debug\Ex15PrimeNumbers.exe.config
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\bin\Debug\Ex15PrimeNumbers.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\bin\Debug\Ex15PrimeNumbers.pdb
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\obj\Debug\Ex15PrimeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\obj\Debug\Ex15PrimeNumbers.exe
+C:\Users\stef\documents\visual studio 2012\Projects\Arrays\Ex15PrimeNumbers\obj\Debug\Ex15PrimeNumbers.pdb
