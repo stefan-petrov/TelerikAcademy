@@ -1,0 +1,9 @@
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\bin\Debug\CSharp Console Game.exe.config
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\bin\Debug\CSharp Console Game.exe
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\bin\Debug\CSharp Console Game.pdb
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\obj\Debug\CSharp Console Game.csprojResolveAssemblyReference.cache
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\obj\Debug\CSharp Console Game.exe
+G:\Team Transformers\CSharp Console Game\CSharp Console Game\CSharp Console Game\obj\Debug\CSharp Console Game.pdb
+C:\Users\stef\Desktop\CSharp Console Game\CSharp Console Game\CSharp Console Game\bin\Debug\CSharp Console Game.exe.config
+C:\Users\stef\Desktop\CSharp Console Game\CSharp Console Game\CSharp Console Game\obj\Debug\CSharp Console Game.exe
+C:\Users\stef\Desktop\CSharp Console Game\CSharp Console Game\CSharp Console Game\obj\Debug\CSharp Console Game.pdb
