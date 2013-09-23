@@ -1,0 +1,296 @@
+html, body, div,
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, code, hr, img,
+form, fieldset, legend, label, textarea, 
+span, em, strong, sub, sup, cite,
+table, tbody, td, tfoot, th, thead, tr, tt,
+dl, dt, dd, ol, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body, select {
+    font: 11px/1.2 Segoe UI, sans-serif;
+    color:#1E395B;
+    font-size: 15px;
+}
+
+body {
+    background: beige url('pics/orang029.gif') repeat;
+}
+
+p#cost-paragraph, p#name-paragraph{
+    display: inline-block;
+    visibility: hidden;
+    color:red;
+}
+form div{
+    display:inline-block;
+}
+form div input {
+    width:100px;
+    
+}
+form div select {
+    width:100px;
+    
+}
+div#form-wrapper {
+    background-color: beige;
+    width:300px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 20px;
+    padding-top: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+div#form-wrapper div.words-container {
+    display:inline-block;
+    width: 50px;
+}
+
+div#form-wrapper div.select-container {   
+    width: 50px;
+    padding-left:50px;
+}
+
+div#form-wrapper input[type="submit"] {
+    width:80%;
+    height:30px;
+    margin-top:10px;
+    margin-left:10%;
+}
+
+div#record-succes-log {
+    margin-top:10px;
+    padding-left: 73px;
+    color:red;
+    margin-bottom: 10px;
+    font-weight:bold;
+}
+
+div#back-to-list {
+    margin-left: 10px;
+    margin-right: 10px;
+    height:20px;
+    width:88%;
+    background-color: beige;
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    color:#1E395B;
+    font-weight: bold;
+    padding:8px;
+}
+
+div#add-record {
+   margin-left: 10px;
+    height:20px;
+    width:120px;
+    background-color: beige;
+    border: 1px solid darkorange;
+    border-radius: 5px;
+    color:#1E395B;
+    font-weight: bold;
+    padding:8px;
+}
+div#back-to-list:hover, div#add-record:hover{
+    background-color: orange;
+    color:black;
+}
+
+a.links {
+    text-decoration: none;
+}
+
+div#filter-wrapper {
+    background-color: beige;
+    width:550px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 20px;
+    padding-top: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+div#question-delete-wrapper {
+    background-color: beige;
+    width:380px;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding: 20px;
+    padding-top: 30px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+td {
+    padding-left:8px;
+}
+
+td#sum {
+    color:red;
+    font-weight:bold;
+}
+
+ul#filter-list {
+    color:#1E395B;
+    display: none;
+    position: absolute;
+}
+
+ul#filter-list li a:visited{
+    color:#1E395B;
+    
+}
+
+ul#filter-list li{ 
+    width:130px;
+    list-style-type: none;
+    background: beige;
+    border-right: 1px solid black;
+    border-left:1px solid black;
+    
+}
+
+ul#filter-list li:first-child {
+    border-top:1px solid black;
+}
+
+ul#filter-list li:last-child {
+    border-bottom:1px solid black;
+}
+
+ul#filter-list li a{   
+    width:93%;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding-top:7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: -5px;
+    
+}
+
+div#filter {
+    height: 20px;
+    display:inline-block;
+    font-weight: bold;
+    background-color: beige;
+    padding: 8px;
+    margin-bottom: 7px;
+    
+    border-radius: 5px;
+    border:1px solid darkorange;
+    
+}
+
+div#filter:hover {    
+    background-color: orange;
+}
+
+
+
+div#please-select-filter{
+    display:inline-block;
+    font-weight: normal;
+    color:red;
+    font-size: 0.8em;
+}
+
+div#filter:hover ul {
+    display:block;
+}
+
+div#filter ul li a:hover {    
+    
+    border: 2px solid black;
+}
+
+th#th-date div {
+    width: 62px;
+}
+
+th#th-name div {
+    width: 150px;
+}
+
+th#th-sum div {
+    width: 40px;      
+}
+
+th#th-type div {
+    width: 100px;
+}
+
+td.delete-item a{
+    width:100%;
+    color:red;
+    border-radius: 3px;
+}
+
+td.delete-item:hover a{
+    background-color: red;
+    color:white;
+}
+
+td.edit-item a{
+    color:green;
+    border-radius: 3px;
+}
+
+td.edit-item:hover a{
+    background-color: green;
+    color:white;
+}
+div#yes-button {
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+    color:#1E395B;
+    border: 1px solid darkorange;
+    background-color: beige;
+    border-radius:2px;
+    padding-left: 28px;
+    padding-top: 10px;
+}
+
+div#yes-button:hover {
+    background-color: orange;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+div#record-deleted {
+    color:red;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+div#get-back {
+    margin-left: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    color:#1E395B;
+    border: 1px solid darkorange;
+    background-color: beige;
+    border-radius:2px;  
+    padding-top: 10px;
+    padding-left: 28px;
+    
+}
+
+div#get-back:hover {
+    background-color: orange;
+}
+
+div#question-delete p{
+    color:red;
+    margin-bottom: 15px;
+    
+}
