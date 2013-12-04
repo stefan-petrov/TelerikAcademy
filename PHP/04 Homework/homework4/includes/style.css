@@ -1,0 +1,162 @@
+html, body, div,
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, code, hr, img,
+form, fieldset, legend, label, textarea, 
+span, em, strong, sub, sup, cite,
+table, tbody, td, tfoot, th, thead, tr, tt,
+dl, dt, dd, ol, ul, li {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+body {
+    font: 11px/1.2 Segoe UI, sans-serif;
+    font-size: 15px;
+}
+
+div#header {
+    width:100%;    
+    border-bottom: 2px solid white;
+    color:lightgray;
+    font-size:30px;
+    
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+div.book-title {
+    color:#1E395B;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+td {
+    border-bottom: 1px solid white;
+    padding:5px;
+}
+
+div.table-wrapper {
+    width:500px;
+    margin:0 auto;
+}
+
+div.author-name a{
+    text-decoration: none;
+    color:lightgrey;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+div.author-name a:hover {
+    color:black;
+}
+
+th {
+    font-style: italic;
+}
+
+input[type="text"] {
+    display: block;
+    color: white;   
+    width: 250px; 
+    padding: 3px 5px 3px 5px; 
+    border-style: none; 
+    border-radius: 3px;
+    background-color: #6A6A6A;  
+    font-size: 1.2em;
+    height:25px;
+    margin-bottom: 10px;
+}
+
+input:focus { 
+    color: white; 
+}
+
+select {
+    display: block;
+    color: white;   
+    width: 250px; 
+    padding: 3px 5px 3px 5px; 
+    border-style: none; 
+    border-radius: 3px;
+    background-color: #6A6A6A;  
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+input[type='submit']{
+    height: 25px;
+    width: 71px;
+    background-image: url('./includes/add-button.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+input[type='submit']:hover {
+    background-image: url('./includes/add-button-hover.gif');
+}
+
+div#new-author-btn, div#new-book-btn, div.index-btn {
+    margin:0 auto;
+    border: 1px solid white;
+    padding:3px;
+    text-align: center;
+    width: 150px;
+    
+}
+
+div#new-author-btn a, div#new-book-btn a, div.index-btn a {
+    padding-left: 35px;
+    padding-right: 35px;
+    text-decoration: none;
+    color:white;
+    width:100%;
+}
+
+div#new-author-btn a:hover, div#new-book-btn a:hover, div.index-btn a:hover{
+    background-color: darkgrey;
+}
+
+div#new-book-btn, div.index-btn  {
+    margin-bottom: 15px;
+}
+
+div.error-msg {
+    color:white;
+    padding: 5px;
+    font-weight: bold;
+}
+
+div.empty-div {
+    visibility: hidden;
+    padding: 5px;
+}
+
+div#sort-div {
+    width:200px;
+    margin:0 auto;
+    height: 20px;
+    display:inline-block; 
+    font-weight: bold;
+    padding: 8px;
+    border-radius: 2px;
+    
+}
+
+div#sort-div a{
+    color:#1E395B;
+    text-decoration: none;
+    padding-top:7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: -5px;
+}
+
+div#sort-div a:visited{
+  color:#1E395B;
+}

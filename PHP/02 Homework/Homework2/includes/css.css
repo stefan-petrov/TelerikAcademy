@@ -1,0 +1,235 @@
+html, body, div,
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, code, hr, img,
+form, fieldset, legend, label, textarea, 
+span, em, strong, sub, sup, cite,
+table, tbody, td, tfoot, th, thead, tr, tt,
+dl, dt, dd, ol, ul, li {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+body {
+    font: 11px/1.2 Segoe UI, sans-serif;
+    font-size: 15px;
+}
+
+div.login-container {
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 2px;
+    width: 180px;
+    padding:10px;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+
+div.login-container form {
+    background-color: gray;
+}
+div.login-container input {
+    margin:10px;
+    
+}
+
+
+div#error-log {
+    margin: 0 auto;
+    width: 170px;
+    padding:20px;
+    color:black;
+    font-weight: bold;
+}
+
+div#upload-link {
+    display:inline-block;
+}
+
+div.login-error {
+    width:170px;
+    margin:0 auto;
+    color:darkgrey;
+    font-weight: bold;
+}
+
+div#header {
+    width:100%;
+    height:58px;
+    border-bottom: 2px solid white;
+    color:lightgray;
+    font-size:30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+div#register {
+    background-color: gray;
+    padding:10px;
+}
+
+div#register a{
+    background-color: gray;
+    text-decoration: none;
+    color:white;
+    
+}
+
+div#register a:hover{
+    text-decoration: underline;
+    color:darkgray; 
+}
+
+input#submit-btn {
+    margin-top: 10px;
+    background-color: darkgrey;
+    width: 95px;
+    margin-left: 10px;
+    height: 25px;
+}
+
+div#list-wrapper {
+    margin:0 auto;
+    width:350px;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding:10px;
+}
+
+div#list-wrapper a{
+    text-decoration: none;
+    color:white;
+}
+
+div#list-wrapper a:hover{
+    text-decoration: underline;  
+    color:darkgray;
+}
+div#list-wrapper div.pic-link, div.pic-size {
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+div#upload-link, div#logout-btn, div#go-back-link {
+    margin:0 auto;
+    border: 1px solid white;
+    padding:3px;
+    text-align: center;
+    width: auto;
+}
+
+div#upload-link a, div#logout-btn a, div#go-back-link a {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color:white;
+    width:100%;
+}
+
+div#upload-link a:hover,  div#logout-btn a:hover, div#go-back-link a:hover{
+    background-color: darkgrey;
+} 
+
+div#list-btn-wrapper {
+    width:360px;
+    margin:0 auto;
+}
+
+div#logout-btn {
+    display:inline-block;
+    float:right;
+    margin-right: 30px; 
+}
+
+div#upload-form-wrapper {
+    border:1px solid white;
+    width: 110px;
+    margin:0 auto;
+    padding:10px;
+    
+}
+
+div#go-back-link {
+    margin-bottom: 10px;
+}
+
+div#file-upload-status {
+    width:110px;
+    color:white;
+    font-align:center;
+    height: 30px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+div#submit-btn-div input[type='submit']{
+    height: 30px;
+    width: 55px;
+    background-image: url('./imgs/btn3.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+div#upload-form-wrapper input[type='submit'] {
+    height: 30px;
+    width: 55px;
+    background-image: url('./imgs/upload-button.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+div#upload-file-container {
+    height: 30px;
+    width: 55px;
+   background-image: url('./imgs/browse-button.gif');
+   background-repeat: no-repeat;
+   border:1px solid white;
+    border-radius:2px;
+    margin-bottom: 15px;
+}
+
+div#upload-file-container input {
+    height: 30px;
+    width: 55px;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+div.login-container input[type="submit"]#register-btn{
+    height: 30px;
+    width: 85px;
+    background-image: url('./imgs/register-button.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+input[type="text"], input[type="password"] {
+    color: white; 
+    height: 23px; 
+    width: 150px; 
+    padding: 3px 5px 3px 5px; 
+    border-style: none; 
+    border-radius: 3px;
+    background-color: #6A6A6A; 
+    font-family: courier new; 
+    font-size: 14px
+}

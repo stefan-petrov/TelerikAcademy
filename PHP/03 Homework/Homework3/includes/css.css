@@ -1,0 +1,364 @@
+html, body, div,
+h1, h2, h3, h4, h5, h6, p, a, blockquote, pre, code, hr, img,
+form, fieldset, legend, label, textarea, 
+span, em, strong, sub, sup, cite,
+table, tbody, td, tfoot, th, thead, tr, tt,
+dl, dt, dd, ol, ul, li {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+body {
+    font: 11px/1.2 Segoe UI, sans-serif;
+    font-size: 15px;
+}
+
+div.login-container {
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 2px;
+    width: 180px;
+    padding:10px;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+
+div.login-container form {
+    background-color: gray;
+}
+div.login-container input {
+    margin:10px;
+    
+}
+
+
+div#error-log {
+    margin: 0 auto;
+    width: 170px;
+    padding:20px;
+    color:black;
+    font-weight: bold;
+}
+
+div#upload-link {
+    display:inline-block;
+}
+
+div.login-error {
+    width:170px;
+    margin:0 auto;
+    color:darkgrey;
+    font-weight: bold;
+}
+
+div#header {
+    width:100%;
+    height:58px;
+    border-bottom: 2px solid white;
+    color:lightgray;
+    font-size:30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+div#register {
+    background-color: gray;
+    padding:10px;
+}
+
+div#register a{
+    background-color: gray;
+    text-decoration: none;
+    color:white;
+    
+}
+
+div#register a:hover{
+    text-decoration: underline;
+    color:darkgray; 
+}
+
+input#submit-btn {
+    margin-top: 10px;
+    background-color: darkgrey;
+    width: 95px;
+    margin-left: 10px;
+    height: 25px;
+}
+
+div#list-wrapper {
+    margin:0 auto;
+    width:350px;
+    border: 1px solid white;
+    border-radius: 2px;
+    padding:10px;
+}
+
+div#list-wrapper a{
+    text-decoration: none;
+    color:white;
+}
+
+div#list-wrapper a:hover{
+    text-decoration: underline;  
+    color:darkgray;
+}
+div#list-wrapper div.pic-link, div.pic-size {
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+div#upload-link, div#logout-btn, div#go-back-link {
+    margin:0 auto;
+    border: 1px solid white;
+    padding:3px;
+    text-align: center;
+    width: auto;
+}
+
+div#upload-link a, div#logout-btn a, div#go-back-link a {
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color:white;
+    width:100%;
+}
+
+div#upload-link a:hover,  div#logout-btn a:hover, div#go-back-link a:hover{
+    background-color: darkgrey;
+} 
+
+div#list-btn-wrapper {
+    width:360px;
+    margin:0 auto;
+}
+
+div#logout-btn {
+    display:inline-block;
+    float:right;
+    margin-right: 30px; 
+}
+
+
+div#go-back-link {
+    margin-bottom: 10px;
+}
+
+
+div#submit-btn-div input[type='submit']{
+    height: 30px;
+    width: 55px;
+    background-image: url('./imgs/btn3.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+div.login-container input[type="submit"]#register-btn{
+    height: 30px;
+    width: 85px;
+    background-image: url('./imgs/register-button.gif');
+    border:0;
+    cursor: pointer;
+    cursor: hand;
+    background-color: transparent;
+    border:1px solid white;
+    border-radius:2px;
+}
+
+input[type="text"], input[type="password"] {
+    color: white; 
+    height: 23px; 
+    width: 150px; 
+    padding: 3px 5px 3px 5px; 
+    border-style: none; 
+    border-radius: 3px;
+    background-color: #6A6A6A; 
+    font-family: courier new; 
+    font-size: 14px
+}
+
+input:focus textarea:focus { 
+    color: white; 
+}
+
+textarea {
+   background-color: #6A6A6A;
+   color:white;
+   width:160px;
+   height:80px;
+}
+
+div.username {
+    width:150px;
+    text-align: right;
+    display: inline-block;
+}
+
+ul li {
+    margin-left:25%;
+    list-style: none;
+    margin-bottom: 5px;
+    border-bottom: 1px solid lightgrey;
+    width:600px;
+}
+
+ul#msg-list {
+    margin-top:100px;
+}
+
+div.msg-title {
+    display: inline-block;
+}
+
+div.msg-data {
+    margin-left:151px;
+    width:300px;
+    word-wrap:break-word;
+}
+
+div.msg-category {
+    display:inline-block;
+    width:80px;
+    font-style: italic;
+    color: #1E395B;
+    font-weight:bold;
+}
+
+div.date {
+    display:inline-block;
+    width: 201px;
+    text-align: right;
+    color:white;
+    font-size: 10px;
+    font-style: italic;
+}
+
+div#new-msg-btn {
+    display:inline-block;
+    width:150px;
+    border:1px solid white;
+    text-decoration: none;
+    padding:4px; 
+    text-align: center;
+    float:left;
+}
+
+div#new-msg-btn a {
+    width:100%;
+    text-decoration: none;
+    color:white;
+}
+
+div#new-msg-btn a:hover {
+    background-color: darkgrey;
+}
+
+form#new-msg-form {
+    width:250px;
+    margin:0 auto;
+}
+
+div.del-msg-btn {
+    display:inline-block;
+    margin-left: 200px;
+    width:90px;
+    margin-bottom: 5px;
+}
+
+div.del-msg-btn a{
+    width:120px;
+    color:red;
+    text-decoration: none;
+}
+
+div.del-msg-btn a:hover {
+    background-color: lightgray;
+}
+
+ul#category-menu {
+    display:none;
+    position:relative;
+    top:10px;
+    left:-25px;
+}
+
+ul#category-menu li a:visited{
+    color:#1E395B;
+}
+
+ul#category-menu li{ 
+    width:90px;
+    list-style-type: none;
+}
+
+ul#category-menu li:first-child {
+    border-top:1px solid lightgrey;
+}
+
+ul#category-menu li:last-child {
+    border-bottom:1px solid lightgrey;
+}
+
+ul#category-menu li a{  
+    color:#1E395B;
+    width:93%;
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+    padding-top:7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: -5px;
+    
+}
+
+div#category-menu-div {
+    height: 20px;
+    display:inline-block;
+    width:100px;
+    font-weight: bold;
+    padding: 8px;
+    margin-bottom: 7px; 
+    border-radius: 2px;
+    float:left;
+    
+}
+
+div#date-sort-div {
+    height: 20px;
+    display:inline-block;
+    width:130px;
+    font-weight: bold;
+    padding: 8px;
+    margin-bottom: 7px; 
+    border-radius: 2px;
+    float:left;
+}
+
+div#category-menu-div a, div#date-sort-div a{
+    color:#1E395B;
+   text-decoration: none;
+   padding-top:7px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: -5px;
+}
+
+div#category-menu-div a:visited, div#date-sort-div a:visited{
+  color:#1E395B;
+}
+
+div#category-menu-div:hover ul, div#date-sort-div:hover ul {
+    display:block;
+}
+
+div#category-menu-div ul li a:hover, div#date-sort-div ul li a:hover {       
+    background-color: darkgrey;
+}

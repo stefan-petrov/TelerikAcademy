@@ -1,0 +1,15 @@
+test@1223456
+test2@123456
+test3@testetes
+test4@adasdada
+test5@sdfsdfsd
+stef@stefstef
+stef@stefstef
+stef@stefstef
+pesho@pesho
+user@qwerty
+test@123456
+<script></script>@adasdasda
+<script></script>@adasdadas
+<script>alert('XSS')</script>@123456
+test@test1
